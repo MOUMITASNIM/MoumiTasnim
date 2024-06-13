@@ -1,5 +1,5 @@
-                           //Assalamu Alaikum !//
-                         //Welcome to my profile !//
+                           Assalamu Alaikum !
+                         Welcome to my profile !
                          
 - 👋 Hi, I’m TASNIM RAHMAN MOUMITA
 - 👀 Interested in Photography & Baking ! ...
