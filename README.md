@@ -1,21 +1,24 @@
-                                            Assalamu Alaikum !
-                                         Welcome to my Github profile !  
-  ![IMG_20250116_155532 (1)](https://github.com/user-attachments/assets/0169c8b5-0581-40a4-b8b0-6ce81a66a809)                                                                                                                      
-- Hi there!<picture>   
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">                                              
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="30">
-  </picture> I’m TASNIM RAHMAN MOUMITA
-- 👀 Interested in Photography & Baking !                              
-- 🌱 Undergrad student at BRAC University.
-                                                                                                                             
+                                                    Assalamu Alaikum !
+                                               Welcome to my Github profile !  
+                                                                                                                           
+- Hi there!<picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="30">
+  </picture> I’m Tasnim Rahman Moumita.  
+  
+-  <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>Undergraduate student at BRAC University.
+
+-  Enthusiast at Photography <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" 
+   alt="📸" width="32" height="32"> </picture>   &   Baking  <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f382/512.webp" type="image/webp"> <img   
+   src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f382/512.gif" alt="🎂" width="30" height="30">/picture>!
+                                                                                                                                                             
 <!---
 MOUMITASNIM/MOUMITASNIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 ### Tech Stack:
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ## 📩 Contact with Me
