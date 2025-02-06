@@ -1,5 +1,6 @@
                                             Assalamu Alaikum !
                                          Welcome to my Github profile !
+                <img src="https://github.com/user-attachments/assets/b57f919d-34e9-405f-a00f-61fb46412400" width="250" height="400">
                                                                                                                        
 - Hi there!<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">
