@@ -1,11 +1,11 @@
                            Assalamu Alaikum !
                         Welcome to my profile !
           
-               
--   <picture>
+              
+- Hi <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="32">
-</picture>Hi, I’m TASNIM RAHMAN MOUMITA
+</picture>, I’m TASNIM RAHMAN MOUMITA
 - 👀 Interested in Photography & Baking ! ...
 - 🌱 Currently studying in Dept. of Computer Science and Enginneering in BRAC University...
   
@@ -19,6 +19,4 @@ You can click the Preview link to take a look at your changes.
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-### Visitor Counter :
-![Profile Views](https://komarev.com/ghpvc/?MOUMITASNIM=your-username&color=red&style=flat-square)
 
