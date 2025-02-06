@@ -1,7 +1,8 @@
                            Assalamu Alaikum !
                         Welcome to my profile !
-                         
-- https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif Hi, I’m TASNIM RAHMAN MOUMITA
+          ![Waving Hand](https://github.com/user-attachments/assets/19537571-1341-40af-8bf9-bf96dfeeeb45)
+               
+-  ![Waving Hand](https://github.com/user-attachments/assets/19537571-1341-40af-8bf9-bf96dfeeeb45) Hi, I’m TASNIM RAHMAN MOUMITA
 - 👀 Interested in Photography & Baking ! ...
 - 🌱 Currently studying in Dept. of Computer Science and Enginneering in BRAC University...
   
