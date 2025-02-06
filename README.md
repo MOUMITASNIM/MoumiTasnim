@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ### Visitor Counter :
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/your-username)
 
-![Visitors](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
