@@ -2,8 +2,8 @@
                                          Welcome to my Github profile !  
                                                                                                                        
 - Hi there!<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">                                                        <img src="https://github.com/user-attachments/assets/b57f919d-34e9-405f-a00f-61fb46412400" width="250" height="400">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="32">
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">                                              
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="30">
   </picture> I’m TASNIM RAHMAN MOUMITA
 - 👀 Interested in Photography & Baking !
 - 🌱 Undergrad student at BRAC University.
