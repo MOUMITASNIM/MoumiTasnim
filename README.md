@@ -24,4 +24,7 @@ You can click the Preview link to take a look at your changes.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tasnimr025@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/977944725984256110)
 
+## 📌 Current Projects
+- 🔹 **[Academic Gateway](https://github.com/MOUMITASNIM/BRACU-Academics/tree/main/CSE370/Project_Academic_Gateway)** (University Database Project-CSE370)
+
 
