@@ -5,7 +5,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">                                              
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="30">
   </picture> I’m TASNIM RAHMAN MOUMITA
-- 👀 Interested in Photography & Baking !
+- 👀 Interested in Photography & Baking !                              ![IMG_20250116_155532 (1)](https://github.com/user-attachments/assets/0169c8b5-0581-40a4-b8b0-6ce81a66a809)
 - 🌱 Undergrad student at BRAC University.
                                                                                                                              
 <!---
