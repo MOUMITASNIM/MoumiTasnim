@@ -1,7 +1,7 @@
                                             Assalamu Alaikum !
                                          Welcome to my Github profile !
           
-              
+                                                                                                               ![Profile Picture](https:https://photos.google.com/photo/AF1QipMFKifYMZO6D_2adPYFL7ZN-I3_S2Or_WuYvlwa)           
 - Hi there!<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="32">
