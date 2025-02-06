@@ -7,7 +7,7 @@
   </picture> I’m TASNIM RAHMAN MOUMITA
 - 👀 Interested in Photography & Baking !
 - 🌱 Undergrad student at BRAC University.
-                                                                                                   <img src="https://github.com/user-attachments/assets/b57f919d-34e9-405f-a00f-61fb46412400"width="100" 
+                                                                                                   <img src="https://github.com/user-attachments/assets/b57f919d-34e9-405f-a00f-61fb46412400" width="100" 
                                                                                                     height="100">
 
 <!---
