@@ -1,11 +1,11 @@
                                             Assalamu Alaikum !
                                          Welcome to my Github profile !  
-                                                                                                                       
-- Hi there!<picture>
+  ![IMG_20250116_155532 (1)](https://github.com/user-attachments/assets/0169c8b5-0581-40a4-b8b0-6ce81a66a809)                                                                                                                      
+- Hi there!<picture>   
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">                                              
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="30">
   </picture> I’m TASNIM RAHMAN MOUMITA
-- 👀 Interested in Photography & Baking !                              ![IMG_20250116_155532 (1)](https://github.com/user-attachments/assets/0169c8b5-0581-40a4-b8b0-6ce81a66a809)
+- 👀 Interested in Photography & Baking !                              
 - 🌱 Undergrad student at BRAC University.
                                                                                                                              
 <!---
@@ -26,5 +26,3 @@ You can click the Preview link to take a look at your changes.
 
 ## 📌 Current Projects
 - 🔹 **[Academic Gateway](https://github.com/MOUMITASNIM/BRACU-Academics/tree/main/CSE370/Project_Academic_Gateway)** (University Database Project-CSE370)
-
-
