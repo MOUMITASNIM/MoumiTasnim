@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ### Visitor Counter :
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?MOUMITASNIM=your-username&color=red&style=flat-square)
 
