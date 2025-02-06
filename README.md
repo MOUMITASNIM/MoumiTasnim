@@ -1,8 +1,11 @@
                            Assalamu Alaikum !
                         Welcome to my profile !
-          ![Waving Hand](https://github.com/user-attachments/assets/19537571-1341-40af-8bf9-bf96dfeeeb45)
+          
                
--  ![Waving Hand](https://github.com/user-attachments/assets/19537571-1341-40af-8bf9-bf96dfeeeb45) Hi, I’m TASNIM RAHMAN MOUMITA
+-   <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="32">
+</picture>Hi, I’m TASNIM RAHMAN MOUMITA
 - 👀 Interested in Photography & Baking ! ...
 - 🌱 Currently studying in Dept. of Computer Science and Enginneering in BRAC University...
   
