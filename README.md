@@ -1,5 +1,5 @@
-                           Assalamu Alaikum !
-                        Welcome to my profile !
+                                  Assalamu Alaikum !
+                                Welcome to my profile !
           
               
 - Hi there!<picture>
