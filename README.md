@@ -5,8 +5,8 @@
   
 -  <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>Undergraduate student at BRAC University.
 
--<span>
-  Enthusiast at Photography 
+<span>
+- Enthusiast at Photography 
   <picture style="display:inline;">
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="32" height="32">
