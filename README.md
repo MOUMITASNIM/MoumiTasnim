@@ -6,7 +6,7 @@
 -  <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>Undergraduate student at BRAC University.
 
 -  Enthusiast at Photography <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" 
-   alt="📸" width="32" height="32"> </picture>   &   Baking  <picture>  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f382/512.webp" type="image/webp"> <img   
+   alt="📸" width="32" height="32"> </picture>   &   Baking <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f382/512.webp" type="image/webp"> <img   
    src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f382/512.gif" alt="🎂" width="30" height="30">/picture>!
 
 -   <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></picture>Always eager to learn new technologies!
