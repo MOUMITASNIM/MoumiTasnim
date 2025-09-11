@@ -46,6 +46,5 @@ You can click the Preview link to take a look at your changes.
 ## 📌 Current Projects
 - 🔹 **[Academic Gateway](https://github.com/MOUMITASNIM/BRACU-Academics/tree/main/CSE370/Project_Academic_Gateway)** (University Database Project)
 - 🔹 **[ApplyNext](https://github.com/MOUMITASNIM/CSE470-Project-ApplyNext)** (A modern MERN application for managing worldwide study opportunities)
-- 🔹 **[House Protection with Defender Tanks](https://github.com/MOUMITASNIM/CSE423-3D-Project--Defender-Tank)** ( A 3D game built using only OpenGL library functions)
 
      
