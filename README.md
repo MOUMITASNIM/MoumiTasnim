@@ -1,11 +1,15 @@
 
   Assalamu Alaikum!                                                                                                                                                                      
 - Hi there!<picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="30">
-  </picture> I’m Tasnim Rahman Moumita.  
+  </picture> I’m Tasnim Rahman Moumita.
+ ### 💻 Portfolio
+Check out my personal portfolio to see my projects, photography, and more:
+
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-%23FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://https://my-portfolio-96.vercel.app/)
   
 -  <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>Undergraduate student at BRAC University.
-
 <span>
+
 ● Enthusiast at Photography 
   <picture style="display:inline;">
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp">
