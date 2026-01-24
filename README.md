@@ -5,7 +5,7 @@
  ### 💻 Portfolio
 Check out my personal portfolio to see my projects, photography, and more:
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-%23FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://https://my-portfolio-96.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-%23FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-96.vercel.app/)
   
 -  <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>Undergraduate student at BRAC University.
 <span>
