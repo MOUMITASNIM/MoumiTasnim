@@ -47,7 +47,8 @@ You can click the Preview link to take a look at your changes.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tasnimr025@gmail.com)
 
 ## 📌 Current Projects
-- 🔹 **[Academic Gateway](https://github.com/MOUMITASNIM/BRACU-Academics/tree/main/CSE370/Project_Academic_Gateway)** (University Database Project)
 - 🔹 **[ApplyNext](https://github.com/MOUMITASNIM/CSE470-Project-ApplyNext)** (A modern MERN application for managing worldwide study opportunities)
-
+- 🔹 **[Academic Gateway](https://github.com/MOUMITASNIM/BRACU-Academics/tree/main/CSE370/Project_Academic_Gateway)** (University Database Project)
+- 🔹 **[DeathRunner---A-3D-Shooting-Game
+](https://github.com/MOUMITASNIM/DeathRunner---A-3D-Shooting-Game)** ( 3D Game Development )
      
