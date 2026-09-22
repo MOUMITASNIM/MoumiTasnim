@@ -43,7 +43,7 @@ Check out my personal portfolio to see my projects, photography, and more:
 
   <li>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="20" height="20" style="vertical-align:middle;">
-    Passionate about <b>Photography & Baking</b>
+    Passionate about <b>Photography </b>
   </li>
 
   <li>
