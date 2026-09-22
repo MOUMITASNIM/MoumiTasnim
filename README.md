@@ -1,8 +1,15 @@
 
   Assalamu Alaikum!                                                                                                                                                                      
-- Hi there!<picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="30">
+  <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="30">
   </picture> I’m Tasnim Rahman Moumita.
- 
+  <a href="https://github.com/MOUMITASNIM">
+  <img
+    align="right"
+    src="https://raw.githubusercontent.com/MOUMITASNIM/MoumiTasnim/main/IMG%20101.png"
+    width="310"
+    style="border-radius: 25px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+  />
+</a>
  ### 💻 Portfolio
 Check out my personal portfolio to see my projects, photography, and more:
 
