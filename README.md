@@ -16,8 +16,8 @@
  ### 💻 Portfolio
 Check out my personal portfolio to see my projects, photography, and more:
 
-<a href="https://bit.ly/tasnimr/" target="_blank">
-  <img src="https://img.shields.io/badge/💻%20Visit%20My%20Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://bit.ly/tasnimr" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%86%92%20Explore%20My%20Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white&labelColor=30363D" />
 </a>
   
 -  <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>Undergraduate Computer Science & Engineering student at BRAC University.
