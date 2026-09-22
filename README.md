@@ -26,15 +26,15 @@ Check out my personal portfolio to see my projects, photography, and more:
 ### 🚀 About Me
 
 <ul>
+<li>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="20" height="20" style="vertical-align:middle;">
+  Developing <b>modern full-stack web applications</b>
+</li>
   <li>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5-fe0f/512.gif" alt="🖥️" width="20" height="20" style="vertical-align:middle;">
-    Designing and developing modern full-stack <b>web applications</b>
-  </li>
-
-  <li>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699-fe0f/512.gif" alt="⚙️" width="20" height="20" style="vertical-align:middle;">
-    Exploring <b>Networking, Cloud Infrastructure & System Architecture</b>
-  </li>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif"
+     alt="⚡" width="20" height="20" style="vertical-align:middle;">
+  Exploring <b>Networking, Cloud Infrastructure & System Architecture</b>
+</li>
 
   <li>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="20" height="20" style="vertical-align:middle;">
