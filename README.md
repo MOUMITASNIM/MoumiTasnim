@@ -1,45 +1,76 @@
 
-  Assalamu Alaikum!                                                                                                                                                                      
+  Assalamu Alaikum!     
+  
   <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fd/512.gif" alt="👋" width="30" height="30">
   </picture> I’m Tasnim Rahman Moumita.
+
   <a href="https://github.com/MOUMITASNIM">
   <img
     align="right"
     src="https://raw.githubusercontent.com/MOUMITASNIM/MoumiTasnim/main/IMG%20101.png"
-    width="310"
-    style="border-radius: 25px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+    width="320"
+    style="border-radius: 18px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
   />
 </a>
+ 
  ### 💻 Portfolio
 Check out my personal portfolio to see my projects, photography, and more:
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-%23FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bit.ly/tasnimr)
+<a href="https://bit.ly/tasnimr/" target="_blank">
+  <img src="https://img.shields.io/badge/💻%20Visit%20My%20Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
   
 -  <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>Undergraduate Computer Science & Engineering student at BRAC University.
 <span>
 
+### 🚀 About Me
+
 <ul>
   <li>
-    Enthusiast in Photography
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="22" height="22" style="vertical-align:middle;">
+    </picture>
+    Building projects with <b>JavaScript, PHP, Laravel, MERN & MySQL</b>
+  </li>
+
+<li>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" alt="🌐" width="22" height="22" style="vertical-align:middle;">
+  </picture>
+  Exploring <b>Networking, Cloud Infrastructure & System Architecture</b>
+</li>
+
+  <li>
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="22" height="22" style="vertical-align:middle;">
+    </picture>
+    Exploring <b>AI/ML, Computer Vision & Intelligent Applications</b>
+  </li>
+
+  <li>
     <picture>
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="20" height="20" style="vertical-align:middle;">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="22" height="22" style="vertical-align:middle;">
     </picture>
-    & Baking
+    Enthusiast in <b>Photography</b> & <b>Baking</b>
     <picture>
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f382/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f382/512.gif" alt="🎂" width="20" height="20" style="vertical-align:middle;">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f382/512.gif" alt="🎂" width="22" height="22" style="vertical-align:middle;">
     </picture>
   </li>
 
   <li>
     <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20" style="vertical-align:middle;">
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" alt="📚" width="22" height="22" style="vertical-align:middle;">
     </picture>
     Always eager to learn new technologies!
   </li>
-</ul>                                                                                              
+</ul>
+                                                                                      
 <!---
 MOUMITASNIM/MOUMITASNIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -66,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MOUMITASNIM&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
+### ✍️💭 Developer's Thought
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
