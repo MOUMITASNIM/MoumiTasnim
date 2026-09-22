@@ -27,47 +27,28 @@ Check out my personal portfolio to see my projects, photography, and more:
 
 <ul>
   <li>
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="22" height="22" style="vertical-align:middle;">
-    </picture>
-    Building projects with <b>JavaScript, PHP, Laravel, MERN & MySQL</b>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5-fe0f/512.gif" alt="🖥️" width="20" height="20" style="vertical-align:middle;">
+    Designing and developing modern full-stack <b>web applications</b>
   </li>
 
-<li>
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" alt="🌐" width="22" height="22" style="vertical-align:middle;">
-  </picture>
-  Exploring <b>Networking, Cloud Infrastructure & System Architecture</b>
-</li>
+  <li>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699-fe0f/512.gif" alt="⚙️" width="20" height="20" style="vertical-align:middle;">
+    Exploring <b>Networking, Cloud Infrastructure & System Architecture</b>
+  </li>
 
   <li>
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="22" height="22" style="vertical-align:middle;">
-    </picture>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="20" height="20" style="vertical-align:middle;">
     Exploring <b>AI/ML, Computer Vision & Intelligent Applications</b>
   </li>
 
   <li>
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="22" height="22" style="vertical-align:middle;">
-    </picture>
-    Enthusiast in <b>Photography</b> & <b>Baking</b>
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f382/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f382/512.gif" alt="🎂" width="22" height="22" style="vertical-align:middle;">
-    </picture>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="20" height="20" style="vertical-align:middle;">
+    Passionate about <b>Photography & Baking</b>
   </li>
 
   <li>
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" alt="📚" width="22" height="22" style="vertical-align:middle;">
-    </picture>
-    Always eager to learn new technologies!
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" alt="📚" width="20" height="20" style="vertical-align:middle;">
+    Continuously learning and exploring <b>emerging technologies</b>
   </li>
 </ul>
                                                                                       
