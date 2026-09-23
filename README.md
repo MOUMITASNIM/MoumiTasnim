@@ -16,7 +16,7 @@
  ### 💻 Portfolio
 Check out my personal portfolio to see my projects, photography, and more:
 
-<a href="https://bit.ly/tasnimr" target="_blank">
+<a href="https://portfolio-tasnim.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/%E2%86%92%20Explore%20My%20Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white&labelColor=30363D" />
 </a>
   
